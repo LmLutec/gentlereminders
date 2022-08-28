@@ -8,3 +8,5 @@
 Reminder.create(message: 'All is well', author: "")
 Reminder.create(message: 'We all do what we have to', author: "")
 # Reminder.create(message: 'All is well', author: "")
+
+User.create(username: 'dever1', password:"mysecret", role: "admin")
